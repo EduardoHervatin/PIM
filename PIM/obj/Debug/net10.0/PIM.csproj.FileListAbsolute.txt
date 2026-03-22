@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\PIM\PIM\bin\Debug\net10.0\PIM.exe
+C:\Users\Eduardo\source\repos\PIM\PIM\bin\Debug\net10.0\PIM.deps.json
+C:\Users\Eduardo\source\repos\PIM\PIM\bin\Debug\net10.0\PIM.runtimeconfig.json
+C:\Users\Eduardo\source\repos\PIM\PIM\bin\Debug\net10.0\PIM.dll
+C:\Users\Eduardo\source\repos\PIM\PIM\bin\Debug\net10.0\PIM.pdb
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.dll
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\refint\PIM.dll
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.pdb
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\PIM.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\PIM\PIM\obj\Debug\net10.0\ref\PIM.dll
